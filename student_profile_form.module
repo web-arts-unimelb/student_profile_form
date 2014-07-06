@@ -1,0 +1,7 @@
+<?php
+/**
+ * @file
+ * Code for the student_profile_form feature.
+ */
+
+include_once 'student_profile_form.features.inc';
