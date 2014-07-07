@@ -2,6 +2,7 @@ name = student_profile_form
 description = student_profile_form
 core = 7.x
 package = University of Melbourne
+php = 5.2.4
 version = 7.x-1.0
 project = student_profile_form
 dependencies[] = conditional_fields

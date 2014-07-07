@@ -105,7 +105,7 @@ function student_profile_form_taxonomy_default_vocabularies() {
       'name' => 'Programs, graduate',
       'machine_name' => 'programs_graduate',
       'description' => '',
-      'hierarchy' => '1',
+      'hierarchy' => '0',
       'module' => 'taxonomy',
       'weight' => '0',
       'rdf_mapping' => array(

@@ -2262,7 +2262,8 @@ function student_profile_form_field_default_fields() {
 <p>&nbsp;</p>
 <p>The information will be used by authorised staff for the purpose for which it was collected and will be protected against unauthorised access and use. The University has a detailed Privacy Policy and you can access any personal information the University holds about you. Email the Privacy Officer at <a href="mailto:privacy-officer@unimelb.edu.au">privacy-officer@unimelb.edu.au</a> to find out more.</p>
 <p>&nbsp;</p>
-<p>The Faculty of Arts will not publish information about you without first contacting you and gaining signed consent.</p>',
+<p>The Faculty of Arts will not publish information about you without first contacting you and gaining signed consent.</p>
+<p>&nbsp;</p>',
         ),
       ),
       'translatable' => '0',
